@@ -2,3 +2,5 @@
 Parking management system using Artificial Intelligence
 
 • TCC Project - PUC CAMPINAS
+
+By: Leonardo Sanavio
