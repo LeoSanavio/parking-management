@@ -1,6 +1,6 @@
 # Parking management using vehicle license plate recognition
 
-• Computer Engineering - TCC Project - PUC CAMPINAS
+• Bachelor of Computer Engineering - TCC Project - PUC CAMPINAS
 
 A parking management system using artificial intelligence to identify vehicle license plates.
 
