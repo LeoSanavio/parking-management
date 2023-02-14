@@ -4,7 +4,7 @@
 
 A parking management system using artificial intelligence to identify vehicle license plates.
 
-- Backends: .Net and Python.
+- Backends: C# .Net and Python.
 - Frontends: JavaScript - React.js.
 - Arduino code to simulate the opening of the gate.
 
